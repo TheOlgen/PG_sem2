@@ -1,0 +1,24 @@
+20 20 3
+22
+Human 2 1 0 5
+Sheep 2 17 4
+Sheep 11 9 4
+Sheep 19 16 4
+CyberSheep 1 11 11
+Turtle 10 3 2
+Turtle 12 14 2
+Turtle 2 4 2
+Fox 17 8 3
+Fox 9 16 3
+Wolf 13 2 9
+Wolf 16 0 9
+Wolf 0 18 9
+Wolf 7 2 9
+Antelope 12 3 4
+Antelope 5 10 4
+Antelope 10 1 4
+Grass 2 11 0
+DeadlyNightshade 1 8 99
+Guarana 14 5 0
+Barszcz 3 8 10
+DeadlyNightshade 0 7 99
