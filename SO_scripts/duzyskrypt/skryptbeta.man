@@ -1,0 +1,33 @@
+.\" Manual for skryptbeta.sh
+.\" Contact Olga Rodziewicz (s198421@student.pg.edu.pl) to correct errors or typos
+.TH "skryptbeta.sh" "15.05.2024" "Manual - skryptbeta.sh"
+.SH NAME
+.B skryptbeta.sh
+- zarządza plikami MP3 za pomocą ID tagów
+.SH SYNOPSIS
+skryptbeta.sh [OPTIONS] ...
+.SH DESCRIPTION
+Uruchamia aplikację okienkową do zarządzania plikami MP3.
+.PP
+Użytkownik może wybrać jedną z dostępnych opcji:
+ - Wyszukaj plik MP3
+ - Odtwórz ulubione
+.PP
+Wyszukiwanie odbywa się przy użyciu
+.BR exiftool 
+, a tryb okienkowy jest prezentowany przy użyciu
+.BR zenity .
+.SH OPTIONS
+.TP
+.B -h
+ Wyświetla okno dialogowe z pomocą.
+.TP
+.B -v
+ Wyświetla wersję skryptu.
+.SH BUGI
+.I Brak
+znalezionych błędów.
+.SH ZOBACZ TAKŻE
+exiftool(1), zenity(1), mpg123(1)
+.SH AUTOR
+Olga Rodziewicz (s198421@student.pg.edu.pl)
